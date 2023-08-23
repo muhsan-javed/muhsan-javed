@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Muhsan Javed</h1>
-<h3 align="center">A professional Mobile Apps Developer📱↔️ 💻Kotlin Java and Flutter</h3>
+<h3 align="center">A Professional Mobile Apps Developer 📱↔️💻 Kotlin Java and Flutter</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhsan-javed&label=Profile%20views&color=0e75b6&style=flat" alt="muhsan-javed" /> </p>
 
@@ -12,10 +12,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/muhsan_javed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhsan_javed" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muhsan-javed-b412ab17b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhsan-javed-b412ab17b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhsanjaved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhsanjaved" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18014126/muhsan-javed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18014126/muhsan-javed" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/muhsan.javed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/muhsan.javed/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/muhsan_javed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/muhsanjaved048/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/muhsanjaved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/muhsanjaved" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/muhsan_javed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/muhsan_javed" height="30" width="40" /></a>
 <a href="https://dribbble.com/https://dribbble.com/muhsanjaved048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/muhsanjaved048" height="30" width="40" /></a>
 <a href="https://medium.com/@muhsantech048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhsantech048" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@muhsantech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucx3mvewbqged4w48soz2nba" height="30" width="40" /></a>
