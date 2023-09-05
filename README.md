@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhsan-javed&label=Profile%20views&color=0e75b6&style=flat" alt="muhsan-javed" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Dart**
 
 - 📫 How to reach me **muhsantech048@gmail.com**
 
