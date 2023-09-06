@@ -10,9 +10,9 @@
 - 🌱I’m currently learning **Dart & Flutter**
 - 💬 Ask me about Apps development or any tech related stuff;
 - 👇Contact for work
-- 
--  WhatsApp Number +923083227352
+ 
 - 📫 How to reach me **muhsantech048@gmail.com**
+- 📞 WhatsApp: **+923083227352**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
