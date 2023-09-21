@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhsan-javed&label=Profile%20views&color=0e75b6&style=flat" alt="muhsan-javed" /> </p>
 
 - 💻Freelancer - Android App Developer
-- 👨‍💻2 Years Of Exp in Android Developer
+- 👨‍💻2+ Years Of Exp in Android Developer
 - 🌱I’am currently learning **Dart & Flutter**
 - 💬 Ask me about Apps development or any tech related stuff;
 - 👇Contact for work
