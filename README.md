@@ -12,7 +12,7 @@
 - 👇Contact for work
  
 - 📫 How to reach me **muhsantech048@gmail.com**
-- 📞 WhatsApp: **+923083227352**
+- 📞 WhatsApp: **https://wa.me/+923083227352**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
