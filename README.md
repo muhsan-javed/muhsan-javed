@@ -1,11 +1,11 @@
 
 
 <h1 align="center">Hi 👋, I am Muhsan Javed</h1>
-<h3 align="center">A Professional Mobile Apps Developer 📱💻 Kotlin Java & Flutter</h3>
+<h3 align="center"> A Professional Mobile Apps Developer 📱💻 Kotlin Java & Flutter </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhsan-javed&label=Profile%20views&color=0e75b6&style=flat" alt="muhsan-javed" /> </p>
 
-- 💻Freelancer - Android App Developer
+- 💻Freelancer - Android App Developer java Kotlin xml
 - 👨‍💻2+ Years Of Exp in Android Developer
 - 🌱I’am currently learning **Dart** &   **Flutter**
 - 💬 Ask me about Apps development or any tech-related stuff;
