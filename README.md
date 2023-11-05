@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 😊,  I'am Muhsan Javed</h1>
 <h3 align="center">A Professional Mobile Apps Developer 📱💻 Kotlin Java </h3>
 
