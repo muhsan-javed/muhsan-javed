@@ -13,8 +13,9 @@
 
 - 👇 **Contact for work**
 - 📫 How to reach me muhsantech048@gmail.com
-- 📞 WhatsApp: https://wa.me/+923083227352
 - ☎️ Telegram: https://t.me/muhsanjaved
+- 📞 WhatsApp: https://wa.me/+923083227352
+
 ** **
 
 <h3 align="left">Connect with me:</h3>
