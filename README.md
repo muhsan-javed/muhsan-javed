@@ -29,9 +29,8 @@
 <a href="https://medium.com/@muhsanjaved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhsanjaved" height="30" width="40" /></a>
 <a href="https://dribbble.com/muhsanjaved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/muhsanjaved" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/muhsanjaved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/muhsanjaved" height="30" width="40" /></a>
-
-<a href="https://leetcode.com/muhsantech048/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/muhsantech048/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@muhsantech048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@muhsantech048" height="30" width="40" /></a>
+<a href="https://leetcode.com/muhsanjaved/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/muhsanjaved/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@muhsanjaved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@muhsanjaved" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
