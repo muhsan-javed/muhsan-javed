@@ -24,13 +24,13 @@
  
 <a href="https://twitter.com/muhsan_javed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhsan_javed" height="30" width="40" /></a>
 
-<a href="https://www.facebook.com/muhsanjaved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/muhsanjaved" height="30" width="40" /></a>
+<a href="https://www.facebook.com/muhsanjaved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhsanjaved" height="30" width="40" /></a>
  
-<a href="https://www.instagram.com/muhsan_javed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/muhsan_javed" height="30" width="40" /></a>
+<a href="https://www.instagram.com/muhsan_javed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhsan_javed" height="30" width="40" /></a>
  
-<a href="https://www.youtube.com/@muhsantech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucx3mvewbqged4w48soz2nba" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@muhsantech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@muhsantech" height="30" width="40" /></a>
 
- <a href="https://stackoverflow.com/users/18014126/muhsan-javed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18014126/muhsan-javed" height="30" width="40" /></a>
+ <a href="https://stackoverflow.com/users/18014126/muhsan-javed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhsan-javed" height="30" width="40" /></a>
 
 <a href="https://medium.com/@muhsanjaved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhsanjaved" height="30" width="40" /></a>
 <a href="https://dribbble.com/muhsanjaved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/muhsanjaved" height="30" width="40" /></a>
