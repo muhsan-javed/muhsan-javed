@@ -19,9 +19,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://t.me/muhsanjaved" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:Telegram_2019_Logo.svg" alt="muhsanjaved" height="30" width="40" /></a>
-
 <a href="https://twitter.com/muhsan_javed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhsan_javed" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/muhsanjaved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhsanjaved" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18014126/muhsan-javed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18014126/muhsan-javed" height="30" width="40" /></a>
