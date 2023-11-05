@@ -33,7 +33,7 @@
  <a href="https://stackoverflow.com/users/18014126/muhsan-javed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhsan-javed" height="30" width="40" /></a>
 <a href="https://medium.com/@muhsanjaved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muhsanjaved" height="30" width="40" /></a>
 
-<a href="https://dribbble.com/muhsanjaved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="muhsanjaved" height="30" width="40" /></a>
+<a href="https://dribbble.com/muhsanjaved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/muhsanjaved" height="30" width="40" /></a>
 
 <a href="https://www.hackerrank.com/profile/muhsanjaved" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/muhsanjaved" height="30" width="40" /></a>
 
