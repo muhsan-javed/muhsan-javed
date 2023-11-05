@@ -10,8 +10,8 @@
 - 🌱 I am currently learning **Dart** & **Flutter**
 - 💬 Ask me about Apps development or any tech-related stuff;
   
-** **
-- 👇 Contact for work
+
+- 👇 **Contact for work**
 - 📫 How to reach me muhsantech048@gmail.com
 - 📞 WhatsApp: https://wa.me/+923083227352
 - ☎️ Telegram: https://t.me/muhsanjaved
