@@ -5,7 +5,7 @@
  
 - 💻 Freelancer | **Android App Development** **Kotlin**  Java
 - 👨‍💻 2+ Years Of Experience in Android Developer
-- 🌱 I am currently learning **Dart** & **Flutter**
+- 🌱 I am currently learning **Dart** & **Flutter** 
 - 💬 Ask me about Apps development or any tech-related stuff;
   
 
