@@ -14,7 +14,7 @@
 - 💬 Ask me about **App development or any tech-related stuff**
 - 📫 How to reach me: **muhsantech048@gmail.com**
 - 📄 Know about my experiences: [muhsantech.com/myresume](https://muhsantech.com/myresume)
-- ⚡ Fun fact: **I am funny!**
+- ⚡ Fun fact: **I am funny!** 
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
